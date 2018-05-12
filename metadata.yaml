@@ -1,0 +1,35 @@
+_repo: The-Middle-Years_32649
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32649-h/images/ill_book_cover.jpg
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  editor:
+    agent_name: Lubbock, Percy
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '8373'
+    url: http://www.gutenberg.org/2009/agents/8373
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Lubbock
+description: ''
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Correspondence, reminiscences, etc.'
+- !lcc 'PS'
+- !lcsh 'James, Henry, 1843-1916'
+title: The Middle Years
+url: http://www.gutenberg.org/ebooks/32649
